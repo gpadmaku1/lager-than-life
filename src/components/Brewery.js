@@ -95,8 +95,8 @@ const Brewery = ({
 
 const useStyles = makeStyles({
   breweryContainer: {
-    width: 320,
-    height: 200,
+    maxWidth: 320,
+    maxHeight: 200,
     backgroundColor: '#202020',
     color: '#FFF',
     display: 'flex',
