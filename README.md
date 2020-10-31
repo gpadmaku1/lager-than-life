@@ -1,4 +1,4 @@
-# open-brewery-web-app
+# lager-than-life
 
 React JS app built with Open Brewery DB API.
 
