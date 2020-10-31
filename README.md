@@ -1,3 +1,5 @@
 # open-brewery-web-app
 
-React JS application I'm building out for fun that uses the Open Brewery DB API.
+React JS app built with Open Brewery DB API.
+
+[Lager Than Life](https://lagerthan.life)
