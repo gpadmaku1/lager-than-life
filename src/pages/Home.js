@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import Search from '../components/Search';
+import Breweries from '../components/Breweries';
 
 const Home = () => {
   return (
-    <div>
-      <h1>Lager Than Life</h1>
-      <p>Hey</p>
-    </div>
+    <Fragment>
+      <Search />
+      <Breweries />
+    </Fragment>
   );
 };
 
